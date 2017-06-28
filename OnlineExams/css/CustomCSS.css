@@ -1,0 +1,51 @@
+.customParagraph{
+
+	padding: 30px;
+	background-color: silver;
+	min-height: 300px;
+
+}
+
+.customDiv{
+
+ background: #1ab188;
+  color: #ffffff;
+  min-height: 100px;
+padding-top: 10px;
+padding-left: 10px;
+  vertical-align: middle;
+  text-align: left;
+    border-radius: 5px;
+      min-width: 500px;
+
+}
+
+
+.customRow{
+min-height: 50px;
+padding-left: 10px;
+padding-top: 10px;
+/*border: 1px solid black;*/
+font-size: medium;
+}
+
+.customButton{
+font-size: large;
+}
+
+.buttonRow{
+
+	min-width: 150px;
+	min-height: 50px;
+	font-size: x-large;
+}
+
+.customBody{
+
+	background: rgba(19, 35, 47, 0.9); 
+}
+
+.customRadio{
+color: #ffffff;
+	
+}

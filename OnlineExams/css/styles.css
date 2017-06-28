@@ -1,0 +1,32 @@
+.well-sm{
+        background: url("../images/blue-background-wallpapers.jpg");
+        text-align: center;
+        }
+.well-lg{
+         background-color:transparent;  
+         border: none;
+        }
+.bg{
+          
+           background: url("../images/blue-background-wallpapers.jpg"); 
+        }
+
+ .labelcustom{
+text-align: left;
+vertical-align: middle;
+ }
+
+ .questioncustom{
+text-align: left;
+background: #ffe6e6;
+font-size: large;
+min-height: 100px;
+border-radius: 4px;
+ box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+   padding: 40px;
+   margin: 40px auto;
+ }
+
+ .labelvertalign{
+ 	vertical-align: middle;
+ }
